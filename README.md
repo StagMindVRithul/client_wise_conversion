@@ -31,7 +31,6 @@ To run this application locally, follow these steps:
     ```bash
     streamlit run app.py
 
-
 2. **Upload an Excel file:**
 
     The file should have the following columns: Company, Sales Person, Quote Value, Final Quote Value, Status, Job No.
